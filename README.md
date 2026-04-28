@@ -1,4 +1,4 @@
-# Sympy
+# Simpy
 Este repositorio contiene modelos
 de simulación de eventos discretos
 utilizando SimPy.
